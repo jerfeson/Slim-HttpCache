@@ -1,5 +1,5 @@
 {
-  "name": "slim/http-cache",
+  "name": "jerfeson/slim-http-cache",
   "type": "library",
   "description": "Slim Framework HTTP cache middleware and service provider",
   "keywords": [
